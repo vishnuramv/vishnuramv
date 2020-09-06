@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [github.com/vishnuramv](github.com/vishnuramv)
+- 👨‍💻 All of my projects are available at [vishnuramv](vishnuramv)
 
 - 💬 Ask me about **Flutter, HTML, CSS, Js, Django, Flask, Tensorflow, Unity, Blender**
 
@@ -114,14 +114,14 @@
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
-<!-- </details>
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
   <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-<!-- 
+
 </details>
 
 <details>
@@ -130,8 +130,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
 
 
-</details> -->
+</details>
 
+### Connect with me:
 
 <a href="https://dev.to/vishnuramv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishnuramv" height="30" width="30" /></a>
 <a href="https://twitter.com/vvishnu__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vvishnu__" height="30" width="30" /></a>
