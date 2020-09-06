@@ -1,15 +1,11 @@
-
-
-### Hi there, I'm Vishnu Ram V [website] 👋
-## A passionate fullstack developer
-
-
+## Hi there, I'm Vishnu Ram V 👋
+### A passionate fullstack developer
 
 - 🔭 I’m currently working on **Social Media App**
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [vishnuramv](vishnuramv)
+- 👨‍💻 All of my projects are available at [vishnuramv](github.com/vishnuramv)
 
 - 💬 Ask me about **Flutter, HTML, CSS, Js, Django, Flask, Tensorflow, Unity, Blender**
 
@@ -18,7 +14,6 @@
 - ⚡ Fun fact **I do game development, 3D-modelling.**
 
 
-<br />
 
 ---
 
@@ -51,16 +46,6 @@
     <!-- <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>  -->
 </p>
 
-
-<br />
-<br />
-
----
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
 ---
 
 <details>
@@ -68,12 +53,12 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
 </details>
 
+---
+
 <details>
   <summary>:zap: ⚡ Most used languages</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
 </details>
-
-<br />
 
 ---
 
@@ -97,4 +82,3 @@
 [stackoverflow]: https://stackoverflow.com/users/13526964
 [hackerrank]: https://www.hackerrank.com/vishnu_v1902
 [geekforgeeks]: https://www.geeksforgeeks.com/vishnuv1902
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
