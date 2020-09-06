@@ -47,15 +47,15 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats :zap:</summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
-</details>
+</details> -->
 
-<details>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
+  <p><img align="lefthttps://github.com/vishnuramv/vishnuramv" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
+<!-- <details>
   <summary>:zap: Most used languages :zap:</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
-</details>
+</details> -->
 
 ---
 
