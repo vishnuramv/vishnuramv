@@ -127,7 +127,7 @@
 <details>
   <summary>:zap: Most used languages</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
 <br />
 
 
