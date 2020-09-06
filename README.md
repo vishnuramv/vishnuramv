@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [vishnuramv](github.com/vishnuramv)
+- 👨‍💻 All of my projects are available at [vishnuramv](https://github.com/vishnuramv/)
 
 - 💬 Ask me about **Flutter, HTML, CSS, Js, Django, Flask, Tensorflow, Unity, Blender**
 
@@ -23,7 +23,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -49,14 +48,12 @@
 ---
 
 <details>
-  <summary>:zap: ⚡ Github Stats</summary>
+  <summary>:zap: Github Stats :zap:</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
 </details>
 
----
-
 <details>
-  <summary>:zap: ⚡ Most used languages</summary>
+  <summary>:zap: Most used languages :zap:</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
 </details>
 
