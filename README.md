@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishnu.v1902@gmail.com**
 
-- ⚡ Fun fact **I do game development, 3D-modelling.**
+- ⚡ Fun fact **Game development & 3D-modelling are my hobbies**
 
 
 
@@ -47,15 +47,15 @@
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Github Stats :zap:</summary>
-</details> -->
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
-<!-- <details>
+</details>
+
+<details>
   <summary>:zap: Most used languages :zap:</summary>
-</details> -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
+</details>
 
 ---
 
@@ -69,13 +69,3 @@
 <a href="https://instagram.com/vvishnu___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/vishnu_v1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnu_v1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.com/vishnuv1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vishnuv1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-
-
-[dev]: https://dev.to/vishnuramv
-[twitter]: https://twitter.com/vvishnu__
-[facebook]: https://facebook.com/vvishnu1902
-[instagram]: https://instagram.com/vvishnu___
-[linkedin]: https://linkedin.com/in/vishnu1902
-[stackoverflow]: https://stackoverflow.com/users/13526964
-[hackerrank]: https://www.hackerrank.com/vishnu_v1902
-[geekforgeeks]: https://www.geeksforgeeks.com/vishnuv1902
