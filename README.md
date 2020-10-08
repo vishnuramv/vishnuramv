@@ -56,6 +56,13 @@
 </details>
 
 <details>
+  <summary>:zap: Recent Activity :zap:</summary>
+  <p>
+      <!--START_SECTION:activity-->
+  </p>
+</details>
+
+<details>
   <summary>:zap: Most used languages :zap:</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuramv&layout=compact&hide=html" alt="vishnuramv" /></p>
 </details>
