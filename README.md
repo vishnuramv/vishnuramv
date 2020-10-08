@@ -55,12 +55,12 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vishnuramv.vercel.app/api?username=vishnuramv&show_icons=true" alt="vishnuramv" /></p>
 </details>
 
-<details>
+<!-- <details>
   <summary>:zap: Recent Activity :zap:</summary>
   <p>
-      <!--START_SECTION:activity-->
+      START_SECTION:activity
   </p>
-</details>
+</details> -->
 
 <details>
   <summary>:zap: Most used languages :zap:</summary>
