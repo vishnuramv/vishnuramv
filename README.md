@@ -4,19 +4,19 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **Social Media App**.
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning **ReactJs, NodeJs**.
 
-- 👨‍💻 All of my projects are available at **[vishnuramv](https://github.com/vishnuramv/)**
+- 👨‍💻 All of my projects are available at **[vishnuramv](https://github.com/vishnuramv/)**.
 
-- 💬 Ask me about **Flutter, React, Django, Tensorflow, Unity, Blender**
+- 💬 Ask me about **Flutter, React, Django, Tensorflow, Unity, Blender**.
 
-- 📫 How to reach me **vishnu.v1902@gmail.com**
+- 📫 How to reach me **vishnu.v1902@gmail.com**.
 
 - 🎮 I learned **Game development & 3D-modelling** as a hobby.
 
-- ⚡ Fun fact **I'm dog person, But I don't have dog**
+- ⚡ Fun fact **I'm a dog person, But I don't have a dog**.
 
 ---
 
