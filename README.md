@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-- 🔭 I’m currently working on **Social Media App**.
+- 🔭 I’m currently working on a **100 days UI challenge**.
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**.
 
@@ -70,12 +70,11 @@
 ---
 
 ### Connect me:
-
-<a href="https://dev.to/vishnuramv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishnuramv" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/vvishnu__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vvishnu__" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vishnuramv.github.io" target="blank"><img src="https://img.icons8.com/wired/32/000000/domain.png" height="30" width="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/vvishnu___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/vishnu1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishnu1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/vishnuramv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishnuramv" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/vishnu_v1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnu_v1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/vvishnu__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vvishnu__" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/13526964" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13526964" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/vvishnu1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vvishnu1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/vvishnu___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/vishnu_v1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnu_v1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.com/vishnuv1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vishnuv1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
