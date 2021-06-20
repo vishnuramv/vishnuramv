@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on a **100 days UI challenge**.
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**.
+- 🌱 I’m currently learning **React Native**.
 
 - 👨‍💻 All of my projects are available at **[vishnuramv](https://github.com/vishnuramv/)**.
 
-- 💬 Ask me about **Flutter, React, Django, Tensorflow, Unity, Blender**.
+- 💬 Ask me about **React, Django, Tensorflow, Unity, Blender**.
 
 - 📫 How to reach me **vishnu.v1902@gmail.com**.
 
@@ -87,7 +87,7 @@
 <a href="https://instagram.com/vvishnu___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/vishnu1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishnu1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/vishnuramv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishnuramv" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/vishnu_v1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnu_v1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/vvishnu__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vvishnu__" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/vvishnu___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vvishnu___" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.hackerrank.com/vishnu_v1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnu_v1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://stackoverflow.com/users/13526964" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13526964" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://facebook.com/vvishnu1902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vvishnu1902" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
