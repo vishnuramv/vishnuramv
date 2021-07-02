@@ -1,7 +1,7 @@
 ## Hi there, I'm Vishnu Ram V 👋
 ### A passionate fullstack developer and self-learner
 <p align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/source.gif" alt="Coder GIF" width="350" height="250">
 </p>
 
 - 🔭 I’m currently working on a **100 days UI challenge**.
