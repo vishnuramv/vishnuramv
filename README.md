@@ -4,13 +4,13 @@
     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/source.gif" alt="Coder GIF" width="350" height="250">
 </p>
 
-- 🔭 I’m currently working on a **100 days UI challenge**.
+<!-- - 🔭 I’m currently working on a **100 days UI challenge**.-->
 
-- 🌱 I’m currently learning **React Native**.
+<!-- - 🌱 I’m currently learning **React Native**.-->
 
 - 👨‍💻 All of my projects are available at **[vishnuramv](https://github.com/vishnuramv/)**.
 
-- 💬 Ask me about **React, Django, Tensorflow, Unity, Blender**.
+- 💬 Ask me about **React and Django**.
 
 - 📫 How to reach me **vishnu.v1902@gmail.com**.
 
