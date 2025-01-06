@@ -1,5 +1,5 @@
 ## Hi there, I'm Vishnu Ram V 👋
-### A passionate fullstack developer and self-learner
+### A passionate iOS developer
 <p align="center">
     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/source.gif" alt="Coder GIF" width="350" height="250">
 </p>
@@ -10,33 +10,34 @@
 
 - 👨‍💻 All of my projects are available at **[vishnuramv](https://github.com/vishnuramv/)**.
 
-- 💬 Ask me about **React and Django**.
+- 💬 Ask me about **SwiftUI**.
 
 - 📫 How to reach me **vishnu.v1902@gmail.com**.
 
 - 🎮 I learned **Game development & 3D-modelling** as a hobby.
-
-- ⚡ Fun fact **I'm a dog person, But I don't have a dog**.
 
 ---
 
 ### Languages and Tools:
 
 <p align="left">
+    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/> &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;&nbsp;
+<!--     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;&nbsp; -->
 <!--     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> &nbsp;&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp;&nbsp;
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> &nbsp;&nbsp;
+<!--     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> &nbsp;&nbsp; -->
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> &nbsp;&nbsp;
+    
+<!--     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> &nbsp;&nbsp; -->
 <!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> -->
 <!--     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> -->
 <!--     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> -->
@@ -49,7 +50,6 @@
 <!--     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> -->
 <!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> -->
 <!--     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> &nbsp;&nbsp;  -->
-    <!-- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>  -->
 </p>
 
 ---
